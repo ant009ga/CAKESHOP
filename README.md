@@ -1,5 +1,5 @@
 # CAKESHOP
-<!DOCTYPE html>
+
 <html>
 <head>
     <link rel="shortcut icon" href="MRNA-723e7c1a.png">
